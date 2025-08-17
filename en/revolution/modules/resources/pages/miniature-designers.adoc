@@ -1,7 +1,7 @@
 = Miniature designers
 :page-role: resources
 :files: 💾
-:prints: 🧌
+:prints: 🖨️
 :casts: ⚓
 :complete: 💯
 
@@ -19,7 +19,7 @@ _To be included in this list, the designer has produced at least three units for
 
 === Albion
 
-* https://www.cromartyforge.com/tribes_of_prydain.html[Cromarty Forge *Tribes of Prydain*] {files} {prints}
+* https://www.cromartyforge.com/tribes_of_prydain.html[Cromarty Forge _Tribes of Prydain_] {files} {prints}
 
 === Araby
 
@@ -31,8 +31,8 @@ _To be included in this list, the designer has produced at least three units for
 
 === Beastmen
 
-* https://forestdragon.gumroad.com/[Forest Dragon *Despoilers*] {files}
-* https://wakesemporium.gumroad.com/?query=beastkin[Wake’s Emporium *Beastkin*] {files}
+* https://forestdragon.gumroad.com/[Forest Dragon _Despoilers_] {files}
+* https://wakesemporium.gumroad.com/?query=beastkin[Wake’s Emporium _Beastkin_] {files}
 * https://greenskinsminiatures.gumroad.com/?tags=beastmen[Green Skin Miniatures] {files}
 * https://www.facebook.com/macefaceminiatures/[Mace Face Miniatures] {casts}
 * https://www.myminifactory.com/object/3d-print-10mm-beastfolk-clan-army-bundle-198907[Warp Miniatures] {files}
@@ -40,15 +40,15 @@ _To be included in this list, the designer has produced at least three units for
 
 === Bretonnia
 
-* https://forestdragon.gumroad.com/[Forest Dragon *Chivalric Knights*] {files}
+* https://forestdragon.gumroad.com/[Forest Dragon _Chivalric Knights_] {files}
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
 
-See also <<empire>>.
+_See also <<empire>>._
 
 === Cathay
 
 * https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
-// * https://polishlightning.gumroad.com/?query=eastern+dynasty[Polish Lightning Minis]
+// _ https://polishlightning.gumroad.com/?query=eastern+dynasty[Polish Lightning Minis]
 
 === Chaos
 
@@ -69,7 +69,7 @@ See also <<empire>>.
 
 === Dark Elves
 
-* [.det]#https://forestdragon.gumroad.com/[Forest Dragon] {files}#
+* [.del]#https://forestdragon.gumroad.com/[Forest Dragon] {files}#
 * https://www.myminifactory.com/search/?query=onmioji+10mm+spiked+elves[Onmioji Miniatures] {files}
 * [.del]#https://moonjammy.gumroad.com/[Moonjammy] {files}#
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-dark-elves[Pendraken] {casts}
@@ -87,20 +87,20 @@ See also <<empire>>.
 * https://varusminiatures.gumroad.com/?query=dwarf[Varus Miniatures] {files}
 * https://forestdragon.gumroad.com/[Forest Dragon] {files}
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-hill-dwarves[Pendraken *Hill Dwarves*] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-hill-dwarves[Pendraken _Hill Dwarves_] {casts}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
 
 === Empire
 
-* https://forestdragon.gumroad.com/[Forest Dragon *Imperial*] {files}
+* https://forestdragon.gumroad.com/[Forest Dragon _Imperial_] {files}
 * https://minirat.gumroad.com/?query=empire[MiniRat Studio] {files}
 * https://excellentminis.gumroad.com/?tags=empire[Excellent Minis] {files} {prints}
 * https://robofrog.gumroad.com/[RoboFrog Miniatures] {files}
 
 === Goblins
 
-See <<orcs-and-goblins>>
+_See <<orcs-and-goblins>>._
 
 === High Elves
 
@@ -146,7 +146,7 @@ See <<orcs-and-goblins>>
 * https://varusminiatures.gumroad.com/?query=greenskins[Varus Miniatures] {files}
 * https://forestdragon.gumroad.com/[Forest Dragon] {files}
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-goblins[Pendraken *Goblins*] and https://www.pendraken.co.uk/10mm-12mm-fantasy-night-orcs[*Night Orcs*] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-goblins[Pendraken _Goblins_] and https://www.pendraken.co.uk/10mm-12mm-fantasy-night-orcs[*Night Orcs_] {casts}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
 
@@ -162,7 +162,7 @@ See <<orcs-and-goblins>>
 * https://greenskinsminiatures.gumroad.com/?query=skeleton+skeletons+liche+carrion+skull+king+bone[Green Skin Miniatures] {files}
 * https://www.myminifactory.com/search/?query=onmioji%20pyramid[Onmioji Miniatures] {files}
 * https://www.myminifactory.com/users/Tordominis?show=objects&page=1&query=eternal+pharaohs[Tordor Minis] {files}
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-undead[Pendraken *Undead*] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-undead[Pendraken _Undead_] {casts}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
 
@@ -170,11 +170,11 @@ See <<orcs-and-goblins>>
 
 * https://forestdragon.gumroad.com/?tags=vampires[Forest Dragon] {files}
 * https://www.myminifactory.com/users/Tordominis/collection/ethereal-covenant[Tordor Minis] {files}
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken *Eldritch Vampires*] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken _Eldritch Vampires_] {casts}
 
 === Witch Hunters
 
-See <<empire>>.
+_See <<empire>>._
 
 === Wood Elves
 
@@ -209,14 +209,14 @@ _Experimental army list._
 
 #TODO: Determine whether any of these cover an army.#
 
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-monsters[Pendraken *Monsters*]
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-barbarians[Pendraken *Barbarians*]
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken *Dragonmen*]
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-samurai-apes[Pendraken *Samurai Apes*]
-* https://www.pendraken.co.uk/10mm-12mm-fantasy-taurians[Pendraken *Taurians*]
-* https://www.kallistra.co.uk/?page=19[Kallistra *Barbarians*] {casts}
-* https://www.kallistra.co.uk/?page=19[Kallistra *Romano-British*] {casts}
-* https://www.onslaughtmini.com/13-10mm-fantasy[Onslaught Miniatures] {print}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-monsters[Pendraken _Monsters_] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-barbarians[Pendraken _Barbarians_] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken _Dragonmen_] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-samurai-apes[Pendraken _Samurai Apes_] {casts}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-taurians[Pendraken _Taurians_] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra _Barbarians_] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra _Romano-British_] {casts}
+* https://www.onslaughtmini.com/13-10mm-fantasy[Onslaught Miniatures] {prints}
 
 == Historic humans
 
@@ -231,7 +231,7 @@ _Miniature humans intended for historical wargames are often suitable for basic 
 
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] (wagons, siege equipment) {files}
 * https://www.kallistra.co.uk/?page=19[Kallistra] (siege equipment, monsters) {casts}
-* https://www.pendraken.co.uk/10mm-scenery-and-terrain-equipment[Pendraken *Equipment*] and https://www.pendraken.co.uk/10mm-scenery-and-terrain-wagons[*Wagons*] {casts}
+* https://www.pendraken.co.uk/10mm-scenery-and-terrain-equipment[Pendraken _Equipment_] and https://www.pendraken.co.uk/10mm-scenery-and-terrain-wagons[*Wagons_] {casts}
 
 == Terrain
 
@@ -240,5 +240,5 @@ _Miniature humans intended for historical wargames are often suitable for basic 
 == Accessories
 
 * https://www.thingiverse.com/search?q=Warmaster+base&page=1[Thingiverse], https://www.printables.com/search/models?q=Warmaster+base[Printables] and https://cults3d.com/en/search?q=warmaster+base[Cults] have base designs {files}
-* Tokens (casualty, charge markers, etc.) from https://www.thingiverse.com/search?q=Warmaster+token&page=1[Thingiverse] or https://www.printables.com/search/models?q=Warmaster+token[Printables]
-* https://www.pendraken.co.uk/10mm-scenery-and-terrain-casualties[Pendraken *Casualties*] {casts}
+* Tokens (casualty, charge markers, etc.) from https://www.thingiverse.com/search?q=Warmaster+token&page=1[Thingiverse] or https://www.printables.com/search/models?q=Warmaster+token[Printables] {files}
+* https://www.pendraken.co.uk/10mm-scenery-and-terrain-casualties[Pendraken _Casualties_] {casts}
