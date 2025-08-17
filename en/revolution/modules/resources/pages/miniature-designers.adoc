@@ -1,7 +1,7 @@
 = Miniature designers
 :page-role: resources
 :files: 💾
-:prints: 🖨️
+:prints: 🧌
 :casts: ⚓
 :complete: 💯
 
