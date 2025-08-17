@@ -1,0 +1,244 @@
+= Miniature designers
+:page-role: resources
+:files: 💾
+:prints: 🧌
+:casts: ⚓
+:complete: 💯
+
+Many independent artists and small businesses have designed miniatures suitable for using with _Warmaster Revolution_.
+
+Some designers sell model files for personal 3D printing, these are marked {files}.  Most also licence their designs for printing by others, search the web for merchants selling printed models.
+
+Other designers only sell miniatures, whether 3D printed (marked {prints}) or cast in resin or metal (marked {casts}).
+
+Designers’ unit names may not correspond exactly to names in the army lists.  Entries marked with {complete} include miniatures covering all units in the army list (#TODO: Not yet done!#).
+
+== Designers by army
+
+_To be included in this list, the designer has produced at least three units for the army._
+
+=== Albion
+
+* https://www.cromartyforge.com/tribes_of_prydain.html[Cromarty Forge *Tribes of Prydain*] {files} {prints}
+
+=== Araby
+
+* https://greenskinsminiatures.gumroad.com/?tags=araby[Green Skin Miniatures] {files}
+//* https://polishlightning.gumroad.com/?query=arabesque[Polish Lightning Minis]
+* https://www.myminifactory.com/users/Onmioji?show=store&page=1&query=arab[Onmioji Miniatures] {files}
+* https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
+* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+
+=== Beastmen
+
+* https://forestdragon.gumroad.com/[Forest Dragon *Despoilers*] {files}
+* https://wakesemporium.gumroad.com/?query=beastkin[Wake’s Emporium *Beastkin*] {files}
+* https://greenskinsminiatures.gumroad.com/?tags=beastmen[Green Skin Miniatures] {files}
+* https://www.facebook.com/macefaceminiatures/[Mace Face Miniatures] {casts}
+* https://www.myminifactory.com/object/3d-print-10mm-beastfolk-clan-army-bundle-198907[Warp Miniatures] {files}
+* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+
+=== Bretonnia
+
+* https://forestdragon.gumroad.com/[Forest Dragon *Chivalric Knights*] {files}
+* https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
+
+See also <<empire>>.
+
+=== Cathay
+
+* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+// * https://polishlightning.gumroad.com/?query=eastern+dynasty[Polish Lightning Minis]
+
+=== Chaos
+
+* https://www.myminifactory.com/search/?query=onmioji%2010mm%20barbarian[Onmioji Miniatures] {files}
+
+=== Chaos Dwarfs
+
+* https://ankylo.gumroad.com/?query=magma[Ankylo Miniatures] {files}
+* https://www.myminifactory.com/search/?query=onmioji+10mm+dwarf[Onmioji Miniatures] {files}
+* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+
+=== Daemons
+
+* https://ankylo.gumroad.com/?query=daemon[Ankylo Miniatures] {files}
+* https://varusminiatures.gumroad.com/?query=daemon[Varus Miniatures] {files}
+* https://www.myminifactory.com/users/Tordominis?show=store&page=1&categories=1948[Tordor Minis] {files}
+* https://www.blackgateminiatures.com/[Black Gate Miniatures] {casts}
+
+=== Dark Elves
+
+* [.det]#https://forestdragon.gumroad.com/[Forest Dragon] {files}#
+* https://www.myminifactory.com/search/?query=onmioji+10mm+spiked+elves[Onmioji Miniatures] {files}
+* [.del]#https://moonjammy.gumroad.com/[Moonjammy] {files}#
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-dark-elves[Pendraken] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
+
+=== Dogs of War
+
+* https://minirat.gumroad.com/?query=mercenary[MiniRat Studio] {files}
+* https://varusminiatures.gumroad.com/?query=DoW[Varus Miniatures] {files}
+* https://polishlightning.gumroad.com/?query=mercenary[Polish Lightning Minis] {files}
+
+=== Dwarfs
+
+* https://www.cromartyforge.com/citydwarfs.html[Cromarty Forge] {files} {prints}
+* https://varusminiatures.gumroad.com/?query=dwarf[Varus Miniatures] {files}
+* https://forestdragon.gumroad.com/[Forest Dragon] {files}
+* https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-hill-dwarves[Pendraken *Hill Dwarves*] {casts}
+* https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
+
+=== Empire
+
+* https://forestdragon.gumroad.com/[Forest Dragon *Imperial*] {files}
+* https://minirat.gumroad.com/?query=empire[MiniRat Studio] {files}
+* https://excellentminis.gumroad.com/?tags=empire[Excellent Minis] {files} {prints}
+* https://robofrog.gumroad.com/[RoboFrog Miniatures] {files}
+
+=== Goblins
+
+See <<orcs-and-goblins>>
+
+=== High Elves
+
+* [.del]#https://forestdragon.gumroad.com/[Forest Dragon] {files}#
+* https://excellentminis.gumroad.com/?query=noble+elves[Excellent Minis] {files} {prints}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-high-elves[Pendraken] {casts}
+* https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
+
+=== Kislev
+
+* https://www.myminifactory.com/search/?query=onmioji+10mm+cossack[Onmioji Miniatures] {files}
+* https://polishlightning.gumroad.com/?query=kisevite[Polish Lightning Minis] {files}
+
+=== Lizardmen
+
+* [.del]#https://forestdragon.gumroad.com/?tags=reptiles[Forest Dragon] {files}#
+* https://www.cromartyforge.com/lizardmen.html[Cromarty Forge] {files} {prints}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-lizardmen[Pendraken] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
+
+=== Nippon
+
+* https://www.myminifactory.com/users/Tordominis?show=objects&page=1&query=meiji[Tordor Minis] {files}
+
+=== Norse
+
+* https://www.facebook.com/macefaceminiatures/[Mace Face Miniatures] {casts}
+
+=== Ogre Kingdoms
+
+* https://ankylo.gumroad.com/?query=ogres+%7C+gnoblars[Ankylo Miniatures] {files}
+* https://greenskinsminiatures.gumroad.com/?query=ogres[Greenskin Miniatures] {files}
+* [.del]#https://teremkistudio.gumroad.com/[Teremki Studio] {files}#
+* https://www.blackgateminiatures.com/[Black Gate Miniatures] {casts}
+
+=== Orcs and Goblins
+
+* https://greenskinsminiatures.gumroad.com/?query=orc+goblin+trolls+ogres[Green Skin Miniatures] {files}
+* https://wakesemporium.gumroad.com/?query=apocalypse+spiders+orc+goblin[Wake’s Emporium] {files}
+* https://www.myminifactory.com/users/Red%20Nebular?show=store&page=1&categories=5042[Red Nebular] {files}
+* https://varusminiatures.gumroad.com/?query=greenskins[Varus Miniatures] {files}
+* https://forestdragon.gumroad.com/[Forest Dragon] {files}
+* https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-goblins[Pendraken *Goblins*] and https://www.pendraken.co.uk/10mm-12mm-fantasy-night-orcs[*Night Orcs*] {casts}
+* https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
+
+=== Skaven
+
+* https://ankylo.gumroad.com/?query=vermin[Ankylo Miniatures] {files}
+* https://www.cromartyforge.com/ratmen.html[Cromarty Forge] {files} {prints}
+* https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
+
+=== Tomb Kings
+
+* https://greenskinsminiatures.gumroad.com/?query=skeleton+skeletons+liche+carrion+skull+king+bone[Green Skin Miniatures] {files}
+* https://www.myminifactory.com/search/?query=onmioji%20pyramid[Onmioji Miniatures] {files}
+* https://www.myminifactory.com/users/Tordominis?show=objects&page=1&query=eternal+pharaohs[Tordor Minis] {files}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-undead[Pendraken *Undead*] {casts}
+* https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
+
+=== Vampire Counts
+
+* https://forestdragon.gumroad.com/?tags=vampires[Forest Dragon] {files}
+* https://www.myminifactory.com/users/Tordominis/collection/ethereal-covenant[Tordor Minis] {files}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken *Eldritch Vampires*] {casts}
+
+=== Witch Hunters
+
+See <<empire>>.
+
+=== Wood Elves
+
+* https://forestdragon.gumroad.com/?tags=wood+elf[Forest Dragon] {complete} {files}
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-wood-elves[Pendraken] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+
+=== Regiments of Renown
+
+== Experimental or proxy armies
+
+=== Halflings
+
+_Not an official list, but can use the Goblins list._
+
+* https://ankylo.gumroad.com/?query=halflings[Ankylo Miniatures] {files}
+* https://www.myminifactory.com/object/3d-print-10mm-halfling-army-starter-set-168435[Warp Miniatures] {files}
+
+=== Kingdoms of Ind
+
+_Experimental army list._
+
+* https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files}
+
+=== Vampire Coasts
+
+_Experimental army list._
+
+* https://www.myminifactory.com/object/3d-print-10mm-scale-undead-pirate-armada-army-bundle-198905[Warp Miniatures] {files}
+
+== Other units
+
+#TODO: Determine whether any of these cover an army.#
+
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-monsters[Pendraken *Monsters*]
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-barbarians[Pendraken *Barbarians*]
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken *Dragonmen*]
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-samurai-apes[Pendraken *Samurai Apes*]
+* https://www.pendraken.co.uk/10mm-12mm-fantasy-taurians[Pendraken *Taurians*]
+* https://www.kallistra.co.uk/?page=19[Kallistra *Barbarians*] {casts}
+* https://www.kallistra.co.uk/?page=19[Kallistra *Romano-British*] {casts}
+* https://www.onslaughtmini.com/13-10mm-fantasy[Onslaught Miniatures] {print}
+
+== Historic humans
+
+_Miniature humans intended for historical wargames are often suitable for basic infantry in the human armies._
+
+* https://www.pendraken.co.uk/[Pendraken] {casts}
+* https://www.kallistra.co.uk/[Kallistra] {casts}
+* https://www.copplestonecastings.co.uk/[Copplestone Castings] {casts}
+* [.del]#https://www.magistermilitum.com/scale/10mm.html[Magister Militum] {casts}#
+
+== Other miniatures
+
+* https://www.thingiverse.com/tilinger/designs[Adam Tilinger] (wagons, siege equipment) {files}
+* https://www.kallistra.co.uk/?page=19[Kallistra] (siege equipment, monsters) {casts}
+* https://www.pendraken.co.uk/10mm-scenery-and-terrain-equipment[Pendraken *Equipment*] and https://www.pendraken.co.uk/10mm-scenery-and-terrain-wagons[*Wagons*] {casts}
+
+== Terrain
+
+* https://cromartyforge.gumroad.com/?tags=scenery[Cromarty Forge] {files}
+
+== Accessories
+
+* https://www.thingiverse.com/search?q=Warmaster+base&page=1[Thingiverse], https://www.printables.com/search/models?q=Warmaster+base[Printables] and https://cults3d.com/en/search?q=warmaster+base[Cults] have base designs {files}
+* Tokens (casualty, charge markers, etc.) from https://www.thingiverse.com/search?q=Warmaster+token&page=1[Thingiverse] or https://www.printables.com/search/models?q=Warmaster+token[Printables]
+* https://www.pendraken.co.uk/10mm-scenery-and-terrain-casualties[Pendraken *Casualties*] {casts}

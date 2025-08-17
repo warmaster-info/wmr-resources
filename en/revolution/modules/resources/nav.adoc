@@ -1,0 +1,2 @@
+* Resources
+** xref:miniature-designers.adoc[]

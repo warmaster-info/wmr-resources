@@ -1,0 +1,21 @@
+name: Trigger site build
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PAT }}
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: 'warmaster-info',
+              repo: 'warmaster.info',
+              workflow_id: 'publish.yml',
+              ref: 'main'
+            })
