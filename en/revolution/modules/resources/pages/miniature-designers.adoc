@@ -15,7 +15,7 @@ Other designers only sell miniatures, whether 3D printed (marked {prints}), cast
 
 Designs from different manufacturers can have slightly different proportions, styles, detail and overall quality.  As a rule, 3D printed resin miniatures will be more detailed than cast metal models, although the latter is more durable.
 
-Designers’ unit names may not correspond exactly to names in the army lists.
+Designers’ unit names may not correspond exactly to names in the army lists, and may not include every unit in an army.
 //Entries marked with {complete} include miniatures covering all units in the army list (#TODO: Not yet done!#).
 
 To suggest changes to the list email editor@warmaster.info, use https://discord.com/invite/CDbNh9YvW9[Discord], or create an issue or pull request on https://github.com/warmaster-info/wmr-resources[GitHub].
