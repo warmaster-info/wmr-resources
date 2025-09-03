@@ -1,5 +1,6 @@
 = Miniature designers
 :page-role: resources
+:email: pass:[<span class="eml">edi<span class="tkcm2">fica</span>tor@<span class="m1">war</span><span class="htm">game</span>master.info</span>]
 :files: 💾
 :prints: 🧌
 :casts: ⚓
@@ -18,7 +19,7 @@ Designs from different manufacturers can have slightly different proportions, st
 Designers’ unit names may not correspond exactly to names in the army lists, and may not include every unit in an army.
 //Entries marked with {complete} include miniatures covering all units in the army list (#TODO: Not yet done!#).
 
-To suggest changes to the list email editor@warmaster.info, use https://discord.com/invite/CDbNh9YvW9[Discord], or create an issue or pull request on https://github.com/warmaster-info/wmr-resources[GitHub].
+To suggest changes to the list email {email}, use https://discord.com/invite/CDbNh9YvW9[Discord], or create an issue or pull request on https://github.com/warmaster-info/wmr-resources[GitHub].
 
 == Designers by army
 
