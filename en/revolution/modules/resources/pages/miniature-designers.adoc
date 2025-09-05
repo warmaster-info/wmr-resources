@@ -43,7 +43,6 @@ _To be included in this list, the designer has produced at least three units for
 
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
-* https://forestdragon.gumroad.com/[Forest Dragon _Despoilers_] {files}
 * https://greenskinsminiatures.gumroad.com/?tags=beastmen[Green Skin Miniatures] {files}
 * https://www.facebook.com/macefaceminiatures/[Mace Face Miniatures] {casts}
 * https://wakesemporium.gumroad.com/?query=beastkin[Wake’s Emporium _Beastkin_] {files}
@@ -68,6 +67,7 @@ _See also <<empire>>._
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://www.chaostemple.cz/chaos-army/[Chaos Temple] {casts}
 * https://www.cromartyforge.com/The_Blessed.html[Cromarty Forge] {files} {prints}
+* https://forestdragon.gumroad.com/[Forest Dragon _Despoilers_] {files}
 * https://www.myminifactory.com/search/?query=onmioji%2010mm%20barbarian[Onmioji Miniatures] {files}
 
 === Chaos Dwarfs
