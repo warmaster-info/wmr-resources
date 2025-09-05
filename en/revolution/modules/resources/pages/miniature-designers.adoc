@@ -239,7 +239,7 @@ _Experimental army list._
 
 * https://www.myminifactory.com/object/3d-print-10mm-scale-undead-pirate-armada-army-bundle-198905[Warp Miniatures] {files}
 
-== Other units
+=== Other armies
 
 * https://www.onslaughtmini.com/13-10mm-fantasy[Onslaught Miniatures] {prints}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-barbarians[Pendraken _Barbarians_] {casts}
