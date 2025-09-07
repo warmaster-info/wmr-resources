@@ -94,6 +94,7 @@ _See also <<empire>>._
 
 === Dogs of War and Regiments of Renown
 
+* https://www.myminifactory.com/users/Joy-Games-Interactive?show=store&categories=876[Erramir Orlans _Spanish Empire Humans_] {files}
 * https://minirat.gumroad.com/?query=mercenary[MiniRat Studio] {files}
 * https://polishlightning.gumroad.com/?query=mercenary[Polish Lightning Minis] {files}
 * https://varusminiatures.gumroad.com/?query=DoW[Varus Miniatures] {files}
