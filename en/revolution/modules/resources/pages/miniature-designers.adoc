@@ -102,6 +102,7 @@ _See also <<empire>>._
 
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files} {free}
 * https://www.cromartyforge.com/citydwarfs.html[Cromarty Forge] {files} {prints}
+* https://www.myminifactory.com/object/3d-print-10mm-breton-dwarfs-army-bundle-201232[Erramir Orlans _Breton Dwarfs_] {files}
 * https://forestdragon.gumroad.com/[Forest Dragon] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
@@ -110,6 +111,7 @@ _See also <<empire>>._
 
 === Empire
 
+* https://www.myminifactory.com/users/Joy-Games-Interactive?show=store&categories=876[Erramir Orlans _Imperial Humans_] {files}
 * https://excellentminis.gumroad.com/?tags=empire[Excellent Minis] {files} {prints}
 * https://forestdragon.gumroad.com/[Forest Dragon _Imperial_] {files}
 * https://www.printables.com/@grumpusbumpu_2336048/models[Grumpus Bumpus] {files} {free}
@@ -131,6 +133,7 @@ _See also <<empire>>._
 
 === Kislev
 
+* https://www.myminifactory.com/object/3d-print-10mm-muscovite-russian-humans-army-bundle-200913[Erramir Orlans _Muscovite Russian Humans_] {files}
 * https://greenskinsminiatures.gumroad.com/?query=kislev[Green Skin Miniatures] {files}
 * https://www.myminifactory.com/search/?query=onmioji+10mm+cossack[Onmioji Miniatures] {files}
 * [.del]#https://polishlightning.gumroad.com/?query=kisevite[Polish Lightning Minis] {files}#
@@ -165,6 +168,7 @@ _See also <<empire>>._
 === Orcs and Goblins
 
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files} {free}
+* https://www.myminifactory.com/object/3d-print-10mm-orcs-goblins-army-bundle-218646[Erramir Orlans] {files}
 * https://greenskinsminiatures.gumroad.com/?query=orc+goblin+trolls+ogres[Green Skin Miniatures] {files}
 * https://forestdragon.gumroad.com/[Forest Dragon] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
@@ -241,6 +245,7 @@ _Experimental army list._
 
 === Other armies
 
+* https://www.myminifactory.com/users/Joy-Games-Interactive?show=store&categories=876[Erramir Orlans] {files}
 * https://www.onslaughtmini.com/13-10mm-fantasy[Onslaught Miniatures] {prints}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-barbarians[Pendraken _Barbarians_] {casts}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken _Dragonmen_] {casts}
