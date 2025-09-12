@@ -28,7 +28,7 @@ _To be included in this list, the designer has produced at least three units for
 === Albion
 
 * https://www.chaostemple.cz/albion-army/[Chaos Temple] {casts}
-* https://www.cromartyforge.com/tribes_of_prydain.html[Cromarty Forge _Tribes of Prydain_] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/tribes-of-prydain/[Cromarty Forge _Tribes of Prydain_] {files} {prints}
 
 === Araby
 
@@ -66,7 +66,7 @@ _See also <<empire>>._
 
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://www.chaostemple.cz/chaos-army/[Chaos Temple] {casts}
-* https://www.cromartyforge.com/The_Blessed.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product/10mm-the-blessed-chibi-fantasy-army/[Cromarty Forge _The Blessed_] {files} {prints}
 * https://forestdragon.gumroad.com/[Forest Dragon _Despoilers_] {files}
 * https://www.myminifactory.com/search/?query=onmioji%2010mm%20barbarian[Onmioji Miniatures] {files}
 
@@ -102,7 +102,7 @@ _See also <<empire>>._
 === Dwarfs
 
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files} {free}
-* https://www.cromartyforge.com/citydwarfs.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/dwarfs/[Cromarty Forge] {files} {prints}
 * https://www.myminifactory.com/object/3d-print-10mm-breton-dwarfs-army-bundle-201232[Erramir Orlans _Breton Dwarfs_] {files}
 * https://forestdragon.gumroad.com/[Forest Dragon] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
@@ -112,6 +112,7 @@ _See also <<empire>>._
 
 === Empire
 
+* https://cromartyforge.com/product-category/fantasy/city-dwarfs/[Cromarty Forge _City Dwarfs_] {files} {prints}
 * https://www.myminifactory.com/users/Joy-Games-Interactive?show=store&categories=876[Erramir Orlans _Imperial Humans_] {files}
 * https://excellentminis.gumroad.com/?tags=empire[Excellent Minis] {files} {prints}
 * https://forestdragon.gumroad.com/[Forest Dragon _Imperial_] {files}
@@ -123,7 +124,7 @@ _See also <<empire>>._
 
 === High Elves
 
-* https://www.cromartyforge.com/chibielves.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product/10mm-chibi-elf-army/[Cromarty Forge _Chibi Elf_] {files} {prints}
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://cults3d.com/en/users/edoras/3d-models[Edoras] {files}
 * [.del]#https://forestdragon.gumroad.com/[Forest Dragon] {files}#
@@ -141,7 +142,7 @@ _See also <<empire>>._
 
 === Lizardmen
 
-* https://www.cromartyforge.com/lizardmen.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/lizardmen/[Cromarty Forge] {files} {prints}
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
 * [.del]#https://forestdragon.gumroad.com/?tags=reptiles[Forest Dragon] {files}#
@@ -156,7 +157,7 @@ _See also <<empire>>._
 
 === Norse
 
-* https://www.cromartyforge.com/norse.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/norse-10mm/[Cromarty Forge _Norse_] {files} {prints}
 * https://www.facebook.com/macefaceminiatures/[Mace Face Miniatures] {casts}
 
 === Ogre Kingdoms
@@ -185,7 +186,7 @@ _See also <<empire>>._
 === Skaven
 
 * https://ankylo.gumroad.com/?query=vermin[Ankylo Miniatures] {files}
-* https://www.cromartyforge.com/ratmen.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/ratmen/[Cromarty Forge] {files} {prints}
 * https://greenskinsminiatures.gumroad.com/?query=skaven[Green Skin Miniatures] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
@@ -193,7 +194,7 @@ _See also <<empire>>._
 
 === Tomb Kings
 
-* https://www.cromartyforge.com/undeadnorse.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/undead-norse/[Cromarty Forge _Undead Norse_] {files} {prints}
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://greenskinsminiatures.gumroad.com/?query=skeleton+skeletons+liche+carrion+skull+king+bone[Green Skin Miniatures] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
@@ -204,7 +205,7 @@ _See also <<empire>>._
 
 === Vampire Counts
 
-* https://www.cromartyforge.com/undeadnorse.html[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/undead-norse/[Cromarty Forge _Undead Norse_] {files} {prints}
 * https://forestdragon.gumroad.com/?tags=vampires[Forest Dragon] {files}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-dragonmen[Pendraken _Eldritch Vampires_] {casts}
 * https://www.myminifactory.com/users/Tordominis/collection/ethereal-covenant[Tordor Minis] {files}
