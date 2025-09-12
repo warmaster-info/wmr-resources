@@ -102,7 +102,7 @@ _See also <<empire>>._
 === Dwarfs
 
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files} {free}
-* https://cromartyforge.com/product-category/fantasy/dwarfs/[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/dwarfs/[Cromarty Forge] / https://www.centimetrewarriors.com/dwarf-miniatures[Centimetre Warriors] {files} {prints} {casts}
 * https://www.myminifactory.com/object/3d-print-10mm-breton-dwarfs-army-bundle-201232[Erramir Orlans _Breton Dwarfs_] {files}
 * https://forestdragon.gumroad.com/[Forest Dragon] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
@@ -142,7 +142,7 @@ _See also <<empire>>._
 
 === Lizardmen
 
-* https://cromartyforge.com/product-category/fantasy/lizardmen/[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/lizardmen/[Cromarty Forge] / https://www.centimetrewarriors.com/lizardmen[Centimetre Warriors] {files} {prints} {casts}
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
 * [.del]#https://forestdragon.gumroad.com/?tags=reptiles[Forest Dragon] {files}#
@@ -186,7 +186,7 @@ _See also <<empire>>._
 === Skaven
 
 * https://ankylo.gumroad.com/?query=vermin[Ankylo Miniatures] {files}
-* https://cromartyforge.com/product-category/fantasy/ratmen/[Cromarty Forge] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/ratmen/[Cromarty Forge] / https://www.centimetrewarriors.com/samurai-ratmen[Centimetre Warriors] {files} {prints} {casts}
 * https://greenskinsminiatures.gumroad.com/?query=skaven[Green Skin Miniatures] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
@@ -194,7 +194,7 @@ _See also <<empire>>._
 
 === Tomb Kings
 
-* https://cromartyforge.com/product-category/fantasy/undead-norse/[Cromarty Forge _Undead Norse_] {files} {prints}
+* https://cromartyforge.com/product-category/fantasy/undead-norse/[Cromarty Forge _Undead Norse_] / https://www.centimetrewarriors.com/vampire-vikings[Centimetre Warriors] {files} {prints} {casts}
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://greenskinsminiatures.gumroad.com/?query=skeleton+skeletons+liche+carrion+skull+king+bone[Green Skin Miniatures] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
@@ -219,6 +219,7 @@ _Several basic units are the same as <<empire>>._
 
 === Wood Elves
 
+* https://www.centimetrewarriors.com/woodlanders-1[Centimetre Warriors] {casts}
 * https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
 * https://forestdragon.gumroad.com/?tags=wood+elf[Forest Dragon] {complete} {files}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-wood-elves[Pendraken] {casts}
@@ -260,6 +261,7 @@ _Experimental army list._
 _Miniature humans intended for historical wargames are often suitable for basic infantry in the human armies._
 
 * https://www.copplestonecastings.co.uk/[Copplestone Castings] {casts}
+* https://cromartyforge.com/historical-armies-10mm/[Cromarty Forge] / https://www.centimetrewarriors.com/[Centimetre Warriors] {files} {prints} {casts}
 * https://www.kallistra.co.uk/[Kallistra] {casts}
 * [.del]#https://www.magistermilitum.com/scale/10mm.html[Magister Militum] {casts}#
 * https://www.newlinedesigns.co.uk/newline-designs-10mm-ranges[Newline Designs] {casts}
