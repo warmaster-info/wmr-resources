@@ -33,7 +33,7 @@ _To be included in this list, the designer has produced at least three units for
 === Araby
 
 * https://www.thingiverse.com/tilinger/designs[Adam Tilinger] {files} {free}
-* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://greenskinsminiatures.gumroad.com/?tags=araby[Green Skin Miniatures] {files}
 * https://www.printables.com/@grumpusbumpu_2336048/models[Grumpus Bumpus] {files} {free}
 //* https://polishlightning.gumroad.com/?query=arabesque[Polish Lightning Minis]
@@ -42,7 +42,7 @@ _To be included in this list, the designer has produced at least three units for
 === Beastmen
 
 * https://darkgref.gumroad.com/[Darkgref] {files}
-* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://greenskinsminiatures.gumroad.com/?tags=beastmen[Green Skin Miniatures] {files}
 * https://www.facebook.com/macefaceminiatures/[Mace Face Miniatures] {casts}
 * https://wakesemporium.gumroad.com/?query=beastkin[Wake’s Emporium _Beastkin_] {files}
@@ -58,7 +58,7 @@ _See also <<empire>>._
 
 === Cathay
 
-* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://www.norbaminiatures.com/gb/69-warmaster[Norma Miniaturers] {prints}
 //* https://polishlightning.gumroad.com/?query=eastern+dynasty[Polish Lightning Minis]
 
@@ -73,7 +73,7 @@ _See also <<empire>>._
 === Chaos Dwarfs
 
 * https://ankylo.gumroad.com/?query=magma[Ankylo Miniatures] {files}
-* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://www.myminifactory.com/search/?query=onmioji+10mm+dwarf[Onmioji Miniatures] {files}
 
 === Daemons
@@ -144,7 +144,7 @@ _See also <<empire>>._
 
 * https://cromartyforge.com/product-category/fantasy/lizardmen/[Cromarty Forge] / https://www.centimetrewarriors.com/lizardmen[Centimetre Warriors] {files} {prints} {casts}
 * https://darkgref.gumroad.com/[Darkgref] {files}
-* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * [.del]#https://forestdragon.gumroad.com/?tags=reptiles[Forest Dragon] {files}#
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-lizardmen[Pendraken] {casts}
@@ -220,7 +220,7 @@ _Several basic units are the same as <<empire>>._
 === Wood Elves
 
 * https://www.centimetrewarriors.com/woodlanders-1[Centimetre Warriors] {casts}
-* https://eurekaminuk.com/collections/fantasy[Eureaka] {casts}
+* https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://forestdragon.gumroad.com/?tags=wood+elf[Forest Dragon] {complete} {files}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-wood-elves[Pendraken] {casts}
 * https://www.rebelminis.com/wa10wielfar.html[Rebel Minis] {casts}
