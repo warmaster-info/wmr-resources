@@ -255,6 +255,7 @@ _Experimental army list._
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-monsters[Pendraken _Monsters_] {casts}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-samurai-apes[Pendraken _Samurai Apes_] {casts}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-taurians[Pendraken _Taurians_] {casts}
+* https://www.spellcrow.com/argatoria-c-76.html[Spellcrow _Argatoria_] {casts}
 
 == Historic humans
 
