@@ -36,7 +36,7 @@ _To be included in this list, the designer has produced at least three units for
 * https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://greenskinsminiatures.gumroad.com/?tags=araby[Green Skin Miniatures] {files}
 * https://www.printables.com/@grumpusbumpu_2336048/models[Grumpus Bumpus] {files} {free}
-//* https://polishlightning.gumroad.com/?query=arabesque[Polish Lightning Minis]
+* [.del]#https://polishlightning.gumroad.com/?query=arabesque[Polish Lightning Minis] {files}#
 * https://www.myminifactory.com/users/Onmioji?show=store&page=1&query=arab[Onmioji Miniatures] {files}
 
 === Beastmen
@@ -60,7 +60,7 @@ _See also <<empire>>._
 
 * https://eurekaminuk.com/collections/fantasy[Eureka] {casts}
 * https://www.norbaminiatures.com/gb/69-warmaster[Norma Miniaturers] {prints}
-//* https://polishlightning.gumroad.com/?query=eastern+dynasty[Polish Lightning Minis]
+* [.del]#https://polishlightning.gumroad.com/?query=eastern+dynasty[Polish Lightning Minis] {files}#
 
 === Chaos
 
@@ -96,7 +96,7 @@ _See also <<empire>>._
 
 * https://www.myminifactory.com/users/Joy-Games-Interactive?show=store&categories=876[Erramir Orlans _Spanish Empire Humans_] {files}
 * https://minirat.gumroad.com/?query=mercenary[MiniRat Studio] {files}
-* https://polishlightning.gumroad.com/?query=mercenary[Polish Lightning Minis] {files}
+* [.del]#https://polishlightning.gumroad.com/?query=mercenary[Polish Lightning Minis] {files}#
 * https://varusminiatures.gumroad.com/?query=DoW[Varus Miniatures] {files}
 
 === Dwarfs
@@ -283,6 +283,7 @@ _Miniature humans intended for historical wargames are often suitable for basic 
 
 * https://cromartyforge.gumroad.com/?tags=scenery[Cromarty Forge] {files}
 * https://www.hovelsltd.co.uk/10mmrange.htm[Hovels European] and https://www.hovelsltd.co.uk/arab200.html[Arab] (buildings) {casts}
+* https://cults3d.com/en/users/MinimanForge/3d-models[Miniman Forge] {files}
 * https://www.timecastmodels.com/10mm[TimeCast] (buildings) {casts}
 * https://www.totalbattleminiatures.com/10mm[Total Battle Miniatures] (buildings) {casts}
 * https://www.thingiverse.com/rengald/designs[Rengald] {files} {free}
