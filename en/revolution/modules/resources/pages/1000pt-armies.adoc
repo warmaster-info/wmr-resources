@@ -1,0 +1,402 @@
+= 1000pt Armies
+
+Provided below are suggested 1000 point army lists for many of the _Warmaster Revolution_ armies.  They were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well.
+
+Each list presents a balanced army which can play multiple styles and can form the basis of a larger army.
+
+== Albion
+
+#TODO#
+
+== Araby
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Spearmen             |  90
+| 2 | Bowmen               | 110
+| 2 | Knights              | 230
+| 1 | Sword of Cleaving    | (10)
+| 1 | Camel Riders         | 100
+| 1 | Elephants            | 200
+| 1 | General              | 125
+| 1 | Hero                 |  80
+| 1 | Wizard               |  65
+| 1 | Scroll of Dispelling | (20)
+
+|8/4|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=2&3=2&5=1&7=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Faraby&label=&printItems=l%2Csl%2Curl&3-SwC=1&10-ScD=1[This list on Warmaster Army Selector]
+* xref:armies:araby.adoc[Araby] xref:armies:araby.adoc#army-selector[army selector], xref:armies:araby.adoc#special-rules[special rules] and xref:armies:araby.adoc#spells[spells].
+
+== Beastmen
+
+#TODO — Units significantly recosted in Armies v2.25, now too much#
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 4 | Gor                  | 240
+| 2 | Ungor                |  90
+| 1 | Bestigors            |  75
+| 1 | Minotaurs            |  80
+| 2 | Chaos Hounds         |  80
+| 2 | Tuskgor Chariots     | 190
+| 1 | Beastlord            | 125
+| 1 | Wargor               |  80
+| 1 | Bray Shaman          |  80
+
+|12/6|                     |1040
+|===
+
+* https://wm-selector.github.io/#/?0=4&1=2&2=1&3=1&5=2&6=2&10=1&12=1&13=1&jsonPath=warmaster-revolution%2Fbeastmen&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
+* xref:armies:beastmen.adoc[Beastmen] xref:armies:beastmen.adoc#army-selector[army selector], xref:armies:beastmen.adoc#special-rules[special rules] and xref:armies:beastmen.adoc#spells[spells].
+
+== Bretonnia
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Men-at-arms          |  90
+| 1 | Squires              |  90
+| 3 | Knights              | 330
+| 1 | Grail Knights        | 120
+| 1 | Pegasus Knights      |  80
+| 1 | General              | 125
+| 1 | Hero                 | 100
+| 1 | Pegasus              | (15)
+| 1 | Sword of Fate        |  (5)
+| 1 | Enchantress          |  65
+| 1 | Scroll of Dispelling | (20)
+
+|5/3|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?1=2&3=1&4=3&5=1&6=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fbretonnia&label=&printItems=l%2Curl&9-1=1&9-SwF=1&10-ScD=1[This list or Warmaster Army Selector]
+* xref:armies:bretonnia.adoc[Bretonnia] xref:armies:bretonnia.adoc#army-selector[army selector], xref:armies:bretonnia.adoc#special-rules[special rules] and xref:armies:bretonnia.adoc#spells[spells].
+
+== Cathay
+
+#TODO#
+
+== Chaos
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Chaos Warriors       | 280
+| 2 | Chaos Marauders      | 120
+| 1 | Marauder Horsemen    |  90
+| 2 | Chaos Hounds         |  80
+| 1 | Chaos Chariots       |  95
+| 1 | Chaos Spawn          | 110
+| 1 | General              | 125
+| 1 | Sorcerer             | 100
+| 1 | Sword of Might       | (10)
+
+|9/5|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=2&4=1&6=2&7=1&10=1&11=1&13=1&jsonPath=warmaster-revolution%2Fchaos&label=&printItems=l%2Curl&13-SwM=1[This list on Warmaster Army Selector]
+* xref:armies:chaos.adoc[Chaos] xref:armies:chaos.adoc#army-selector[army selector], xref:armies:chaos.adoc#special-rules[special rules] and xref:armies:chaos.adoc#spells[spells].
+
+== Chaos Dwarfs
+
+#TODO: INVALID as max 1 earthshaker / death rocket per 1000#
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 3 | Chaos Dwarfs         | 330
+| 2 | Orc Slaves           |  80
+| 1 | Bull Centaurs        | 140
+| 1 | Earthshaker Cannon   |  90
+| 1 | Death Rocket         |  60
+| 1 | General              | 125
+| 1 | Hero                 |  85
+| 1 | Sword of Fate        |  (5)
+| 1 | Sorcerer             |  90
+
+|8/4|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=3&4=2&6=1&7=1&8=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fchaos-dwarfs&label=&printItems=l%2Curl&11-SwF=1[This list on Warmaster Army Selector]
+* xref:armies:chaos-dwarfs.adoc[Chaos Dwarf] xref:armies:chaos-dwarfs.adoc#army-selector[army selector], xref:armies:chaos-dwarfs.adoc#special-rules[special rules] and xref:armies:chaos-dwarfs.adoc#spells[spells].
+
+== Daemons
+
+#TODO#
+
+== Dark Elves
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Spearmen             | 120
+| 2 | Crossbowmen          | 150
+| 2 | Cold One Knights     | 260
+| 1 | Harpies              |  65
+| 1 | General              | 155
+| 1 | Hero                 | 170
+| 1 | Manticore            | (80)
+| 1 | Sword of Might       | (10)
+| 1 | Sorceress            |  80
+
+|7/4|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=2&4=2&5=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fdark-elves&label=&printItems=l%2Curl&9-0=1&9-SwM=1[This list on Warmaster Army Selector]
+* xref:armies:dark-elves.adoc[Dark Elf] xref:armies:dark-elves.adoc#army-selector[army selector], xref:armies:dark-elves.adoc#special-rules[special rules] and xref:armies:dark-elves.adoc#spells[spells].
+
+== Dogs of War
+
+#TODO#
+
+== Dwarfs
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 3 | Warriors             | 330
+| 2 | Handgunners          | 180
+| 1 | Troll Slayers        |  80
+| 1 | Cannon               |  90
+| 1 | Gyrocopter           |  75
+| 1 | General              | 155
+| 1 | Runesmith            |  90
+
+|8/4|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=3&1=2&3=1&4=1&6=1&7=1&9=1&jsonPath=warmaster-revolution%2Fdwarfs&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
+* xref:armies:dwarfs.adoc[Dwarf] xref:armies:dwarfs.adoc#army-selector[army selector] and xref:armies:dwarfs.adoc#special-rules[special rules].
+
+== Empire
+
+#TODO#
+
+== Goblins
+
+#TODO Only 990 points#
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 4 | Goblins              | 120
+| 2 | Squig Herd           |  60
+| 2 | Trolls               | 220
+| 2 | Wolf Riders          | 120
+| 2 | Wolf Chariots        | 150
+| 1 | Goblin Warboss       |  80
+| 2 | Goblin Hero          | 180
+| 1 | Wyvern               | (80)
+| 1 | Sword of Might       | (10)
+| 2 | Goblin Shaman        | 60
+
+|2/6|                      | 990
+|===
+
+* https://wm-selector.github.io/#/?0=4&1=2&2=2&3=2&4=2&9=1&10=2&11=2&jsonPath=warmaster-revolution%2Fgoblin&label=&printItems=l%2Curl&10-1=1&10-SwM=1[This list on Warmaster Army Selector]
+* xref:armies:goblins.adoc[Goblin] xref:armies:goblins.adoc#army-selector[army selector], xref:armies:goblins.adoc#special-rules[special rules] and xref:armies:goblins.adoc#spells[spells].
+
+== High Elves
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Spearmen             | 120
+| 2 | Archers              | 150
+| 2 | Silver Helms         | 220
+| 1 | Reavers              |  90
+| 1 | Giant Eagles         |  70
+| 1 | General              | 180
+| 1 | Hero                 |  80
+| 1 | Wizard               |  90
+
+|8/4|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=2&2=2&3=1&5=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fhigh-elves&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
+* xref:armies:high-elves.adoc[High Elf] xref:armies:high-elves.adoc#army-selector[army selector], xref:armies:high-elves.adoc#special-rules[special rules] and xref:armies:high-elves.adoc#spells[spells].
+
+== Kislev
+
+#TODO#
+
+== Lizardmen
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Skinks               |  70
+| 4 | Saurus               | 300
+| 1 | Kroxigor             | 135
+| 1 | Cold One Riders      | 145
+| 1 | Sword of Fate        |  (5)
+| 1 | Terradons            |  85
+| 1 | Slann Mage Palanquin |  95
+| 2 | Skink Hero           | 140
+| 1 | Skink Shaman         |  30
+
+|9/5|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=4&4=1&5=1&6=1&8=1&10=2&11=1&jsonPath=warmaster-revolution%2Flizardmen&label=&printItems=l%2Curl&5-SwF=1[This list on Warmaster Army Selector]
+* xref:armies:lizardmen.adoc[Lizardmen] xref:armies:lizardmen.adoc#army-selector[army selector], xref:armies:lizardmen.adoc#special-rules[special rules] and xref:armies:lizardmen.adoc#spells[spells].
+
+== Nippon
+
+#TODO#
+
+== Norse
+
+#TODO#
+
+== Ogre Kingdoms
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 3 | Bull Ogres           | 315
+| 1 | Ironguts             | 140
+| 1 | Gnoblars             |  30
+| 1 | Rhinox Riders        | 200
+| 1 | Tyrant               | 125
+| 1 | Bruiser              |  80
+| 1 | Butcher              | 110
+| 1 | Scroll of Dispelling | (20)
+
+|6/3|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=3&2=1&4=1&5=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fogre-kingdoms&label=&printItems=sl%2Cl%2Curl&12-ScD=1[This list on Warmaster Army Selector]
+* xref:armies:ogre-kingdoms.adoc[Ogre Kingdoms] xref:armies:ogre-kingdoms.adoc#army-selector[army selector], xref:armies:ogre-kingdoms.adoc#special-rules[special rules] and xref:armies:ogre-kingdoms.adoc#spells[spells].
+
+== Orcs
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Orc Warriors         | 120
+| 1 | Black Orcs           | 110
+| 3 | Goblins              |  90
+| 3 | Boar Riders          | 330
+| 1 | Orc General          |  95
+| 1 | Orc Hero             | 160
+| 1 | Wyvern               | (80)
+| 1 | Orc Shaman           |  65
+| 1 | Scroll of Dispelling | (20)
+| 1 | Goblin Shaman        |  30
+
+|9/5|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=1&2=3&5=3&10=1&11=1&12=1&14=1&jsonPath=warmaster-revolution%2Forcs&label=&printItems=l%2Curl&11-0=1&12-ScD=1[This list on Warmaster Army Selector]
+* xref:armies:orcs.adoc[Orc] xref:armies:orcs.adoc#army-selector[army selector], xref:armies:orcs.adoc#special-rules[special rules] and xref:armies:orcs.adoc#spells[spells].
+
+== Skaven
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 6 | Clanrats             | 240
+| 2 | Stormvermin          | 110
+| 2 | Plague Monks         | 140
+| 2 | Rat Swarms           |  50
+| 2 | Rat Ogres            | 220
+| 1 | Grey Seer            | 130
+| 1 | Hero                 |  80
+| 1 | Sword of Might       | (10)
+| 1 | Warlock              |  30
+
+|14/7|                     |1000
+|===
+
+* https://wm-selector.github.io/#/?0=6&1=2&3=2&4=2&6=2&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fskaven&label=&printItems=l%2Curl&11-SwM=1[This list on Warmaster Army Selector]
+* xref:armies:skaven.adoc[Skaven] xref:armies:skaven.adoc#army-selector[army selector], xref:armies:skaven.adoc#special-rules[special rules] and xref:armies:skaven.adoc#spells[spells].
+
+== Tomb Kings
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 4 | Skeletons            | 120
+| 2 | Skeleton Bowmen      |  90
+| 1 | Skeleton Cavalry     |  60
+| 3 | Skeleton Chariots    | 330
+| 1 | Carrion              |  65
+| 1 | Tomb King            | 135
+| 1 | Sword of Fate        |  (5)
+| 2 | Liche Priest         | 200
+| 1 | Scroll of Dispelling | (20)
+
+|11/6|                     |1000
+|===
+
+* https://wm-selector.github.io/#/?0=4&1=2&2=1&3=3&4=1&9=1&10=2&jsonPath=warmaster-revolution%2Ftomb-kings&label=&printItems=l%2Curl&9-SwF=1&10-ScD=1[This list on Warmaster Army Selector]
+* xref:armies:tomb-kings.adoc[Tomb Kings] xref:armies:tomb-kings.adoc#army-selector[army selector], xref:armies:tomb-kings.adoc#special-rules[special rules] and xref:armies:tomb-kings.adoc#spells[spells].
+
+== Vampire Counts
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 4 | Skeletons            | 120
+| 2 | Zombies              |  70
+| 2 | Grave Guard          | 120
+| 2 | Black Knights        | 220
+| 2 | Dire Wolves          |  80
+| 1 | Fell Bats            |  65
+| 1 | Vampire Lord         | 170
+| 1 | Scroll of Dispelling | (20)
+| 1 | Vampire              |  80
+| 1 | Necromancer          |  75
+| 1 | Ring of Magic        | (30)
+
+|13/7|                     |1000
+|===
+
+* https://wm-selector.github.io/#/?0=4&1=2&3=2&5=2&6=2&7=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fvampire-counts&label=&printItems=l%2Curl&8-ScD=1&10-RM=1[This list on Warmaster Army Selector]
+* xref:armies:vampire-counts.adoc[Vampire Count] xref:armies:vampire-counts.adoc#army-selector[army selector], xref:armies:vampire-counts.adoc#special-rules[special rules] and xref:armies:vampire-counts.adoc#spells[spells].
+
+== Witch Hunters
+
+#TODO#
+
+== Wood Elves
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 2 | Glade Guard          | 130
+| 2 | Eternal Guard        | 120
+| 2 | Dryads               | 120
+| 1 | Wild Riders          | 110
+| 1 | Warhawk Riders       |  85
+| 1 | Treekin              | 110
+| 1 | General              | 155
+| 1 | Branchwraith         |  90
+| 1 | Spell Weaver         |  80
+
+|9/5|                      |1000
+|===
+
+* https://wm-selector.github.io/#/?0=2&1=2&4=2&6=1&7=1&8=1&10=1&13=1&14=1&jsonPath=warmaster-revolution%2Fwood-elves&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
+* xref:armies:wood-elves.adoc[Wood Elf] xref:armies:wood-elves.adoc#army-selector[army selector], xref:armies:wood-elves.adoc#special-rules[special rules] and xref:armies:wood-elves.adoc#spells[spells].
