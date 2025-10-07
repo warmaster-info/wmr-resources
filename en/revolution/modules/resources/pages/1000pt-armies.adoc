@@ -1,8 +1,11 @@
 = 1000pt Armies
+:noindex:
 
 Provided below are suggested 1000 point army lists for many of the _Warmaster Revolution_ armies.  They were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well.
 
 Each list presents a balanced army which can play multiple styles and can form the basis of a larger army.
+
+See also xref:2000pt-armies.adoc[].
 
 == Albion
 
@@ -55,6 +58,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 * https://wm-selector.github.io/#/?0=4&1=2&2=1&3=1&5=2&6=2&10=1&12=1&13=1&jsonPath=warmaster-revolution%2Fbeastmen&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
 * xref:armies:beastmen.adoc[Beastmen] xref:armies:beastmen.adoc#army-selector[army selector], xref:armies:beastmen.adoc#special-rules[special rules] and xref:armies:beastmen.adoc#spells[spells].
 
+image::revolution:armies:beastmen/beastmen.webp[width=2079,height=622]
+
 == Bretonnia
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
@@ -83,6 +88,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 #TODO#
 
+image::revolution:armies:cathay/maneaters.webp[width=1425,height=439,role=column-span]
+
 == Chaos
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
@@ -104,6 +111,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 * https://wm-selector.github.io/#/?0=2&1=2&4=1&6=2&7=1&10=1&11=1&13=1&jsonPath=warmaster-revolution%2Fchaos&label=&printItems=l%2Curl&13-SwM=1[This list on Warmaster Army Selector]
 * xref:armies:chaos.adoc[Chaos] xref:armies:chaos.adoc#army-selector[army selector], xref:armies:chaos.adoc#special-rules[special rules] and xref:armies:chaos.adoc#spells[spells].
+
+image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-span]
 
 == Chaos Dwarfs
 
@@ -132,6 +141,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 == Daemons
 
 #TODO#
+
+image::revolution:armies:daemons/infantry.webp[width=1336,height=744,role=decorative]
 
 == Dark Elves
 
@@ -208,6 +219,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 * https://wm-selector.github.io/#/?0=4&1=2&2=2&3=2&4=2&9=1&10=2&11=2&jsonPath=warmaster-revolution%2Fgoblin&label=&printItems=l%2Curl&10-1=1&10-SwM=1[This list on Warmaster Army Selector]
 * xref:armies:goblins.adoc[Goblin] xref:armies:goblins.adoc#army-selector[army selector], xref:armies:goblins.adoc#special-rules[special rules] and xref:armies:goblins.adoc#spells[spells].
 
+image::revolution:armies:goblins/wolf-riders.webp[width=729,height=310,role=column-span]
+
 == High Elves
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
@@ -228,6 +241,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 * https://wm-selector.github.io/#/?0=2&1=2&2=2&3=1&5=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fhigh-elves&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
 * xref:armies:high-elves.adoc[High Elf] xref:armies:high-elves.adoc#army-selector[army selector], xref:armies:high-elves.adoc#special-rules[special rules] and xref:armies:high-elves.adoc#spells[spells].
+
+image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 
 == Kislev
 
@@ -263,6 +278,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 #TODO#
 
+image::revolution:armies:norse/norse.webp[width=2209,height=801]
+
 == Ogre Kingdoms
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
@@ -283,6 +300,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 * https://wm-selector.github.io/#/?0=3&2=1&4=1&5=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fogre-kingdoms&label=&printItems=sl%2Cl%2Curl&12-ScD=1[This list on Warmaster Army Selector]
 * xref:armies:ogre-kingdoms.adoc[Ogre Kingdoms] xref:armies:ogre-kingdoms.adoc#army-selector[army selector], xref:armies:ogre-kingdoms.adoc#special-rules[special rules] and xref:armies:ogre-kingdoms.adoc#spells[spells].
+
+image::revolution:armies:ogre-kingdoms/infantry.webp[width=2345,height=659,role=column-span]
 
 == Orcs
 
@@ -307,6 +326,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 * https://wm-selector.github.io/#/?0=2&1=1&2=3&5=3&10=1&11=1&12=1&14=1&jsonPath=warmaster-revolution%2Forcs&label=&printItems=l%2Curl&11-0=1&12-ScD=1[This list on Warmaster Army Selector]
 * xref:armies:orcs.adoc[Orc] xref:armies:orcs.adoc#army-selector[army selector], xref:armies:orcs.adoc#special-rules[special rules] and xref:armies:orcs.adoc#spells[spells].
 
+image::revolution:armies:orcs/wolf-riders.webp[width=2200,height=389,role=column-span]
+
 == Skaven
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
@@ -328,6 +349,8 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 * https://wm-selector.github.io/#/?0=6&1=2&3=2&4=2&6=2&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fskaven&label=&printItems=l%2Curl&11-SwM=1[This list on Warmaster Army Selector]
 * xref:armies:skaven.adoc[Skaven] xref:armies:skaven.adoc#army-selector[army selector], xref:armies:skaven.adoc#special-rules[special rules] and xref:armies:skaven.adoc#spells[spells].
+
+image::revolution:armies:skaven/infantry.webp[width=2052,height=438,role=column-span]
 
 == Tomb Kings
 
@@ -400,3 +423,4 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 * https://wm-selector.github.io/#/?0=2&1=2&4=2&6=1&7=1&8=1&10=1&13=1&14=1&jsonPath=warmaster-revolution%2Fwood-elves&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
 * xref:armies:wood-elves.adoc[Wood Elf] xref:armies:wood-elves.adoc#army-selector[army selector], xref:armies:wood-elves.adoc#special-rules[special rules] and xref:armies:wood-elves.adoc#spells[spells].
+
