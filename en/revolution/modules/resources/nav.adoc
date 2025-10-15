@@ -1,2 +1,4 @@
 * Resources
+** xref:1000pt-armies.adoc[]
+** xref:2000pt-armies.adoc[]
 ** xref:miniature-designers.adoc[]
