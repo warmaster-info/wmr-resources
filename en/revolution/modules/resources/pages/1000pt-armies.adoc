@@ -7,9 +7,9 @@ Each list presents a balanced army which can play multiple styles and can form t
 
 See also xref:2000pt-armies.adoc[].
 
-== Albion
-
-#TODO#
+//== Albion
+//
+//#TODO#
 
 == Araby
 
@@ -36,7 +36,7 @@ See also xref:2000pt-armies.adoc[].
 
 == Beastmen
 
-#TODO — Units significantly recosted in Armies v2.25, now too much#
+#TODO — List written for Armies v2.24, units significantly recosted in Armies v2.25, now too much#
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
@@ -84,11 +84,11 @@ image::revolution:armies:beastmen/beastmen.webp[width=2079,height=622]
 * https://wm-selector.github.io/#/?1=2&3=1&4=3&5=1&6=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fbretonnia&label=&printItems=l%2Curl&9-1=1&9-SwF=1&10-ScD=1[This list or Warmaster Army Selector]
 * xref:armies:bretonnia.adoc[Bretonnia] xref:armies:bretonnia.adoc#army-selector[army selector], xref:armies:bretonnia.adoc#special-rules[special rules] and xref:armies:bretonnia.adoc#spells[spells].
 
-== Cathay
-
-#TODO#
-
-image::revolution:armies:cathay/maneaters.webp[width=1425,height=439,role=column-span]
+//== Cathay
+//
+//#TODO#
+//
+//image::revolution:armies:cathay/maneaters.webp[width=1425,height=439,role=column-span]
 
 == Chaos
 
@@ -116,7 +116,7 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 
 == Chaos Dwarfs
 
-#TODO: INVALID as max 1 earthshaker / death rocket per 1000#
+#TODO: INVALID as max 1 earthshaker / death rocket per 1000 in Armies v2.25#
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
@@ -138,11 +138,11 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 * https://wm-selector.github.io/#/?0=3&4=2&6=1&7=1&8=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fchaos-dwarfs&label=&printItems=l%2Curl&11-SwF=1[This list on Warmaster Army Selector]
 * xref:armies:chaos-dwarfs.adoc[Chaos Dwarf] xref:armies:chaos-dwarfs.adoc#army-selector[army selector], xref:armies:chaos-dwarfs.adoc#special-rules[special rules] and xref:armies:chaos-dwarfs.adoc#spells[spells].
 
-== Daemons
-
-#TODO#
-
-image::revolution:armies:daemons/infantry.webp[width=1336,height=744,role=decorative]
+//== Daemons
+//
+//#TODO#
+//
+//image::revolution:armies:daemons/infantry.webp[width=1336,height=744,role=decorative]
 
 == Dark Elves
 
@@ -166,9 +166,9 @@ image::revolution:armies:daemons/infantry.webp[width=1336,height=744,role=decora
 * https://wm-selector.github.io/#/?0=2&1=2&4=2&5=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fdark-elves&label=&printItems=l%2Curl&9-0=1&9-SwM=1[This list on Warmaster Army Selector]
 * xref:armies:dark-elves.adoc[Dark Elf] xref:armies:dark-elves.adoc#army-selector[army selector], xref:armies:dark-elves.adoc#special-rules[special rules] and xref:armies:dark-elves.adoc#spells[spells].
 
-== Dogs of War
-
-#TODO#
+//== Dogs of War
+//
+//#TODO#
 
 == Dwarfs
 
@@ -190,13 +190,13 @@ image::revolution:armies:daemons/infantry.webp[width=1336,height=744,role=decora
 * https://wm-selector.github.io/#/?0=3&1=2&3=1&4=1&6=1&7=1&9=1&jsonPath=warmaster-revolution%2Fdwarfs&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
 * xref:armies:dwarfs.adoc[Dwarf] xref:armies:dwarfs.adoc#army-selector[army selector] and xref:armies:dwarfs.adoc#special-rules[special rules].
 
-== Empire
-
-#TODO#
+//== Empire
+//
+//#TODO#
 
 == Goblins
 
-#TODO Only 990 points#
+#TODO Only 990 points after recosting in Armies v2.25#
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
@@ -244,9 +244,9 @@ image::revolution:armies:goblins/wolf-riders.webp[width=729,height=310,role=colu
 
 image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 
-== Kislev
-
-#TODO#
+//== Kislev
+//
+//#TODO#
 
 == Lizardmen
 
@@ -270,15 +270,15 @@ image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 * https://wm-selector.github.io/#/?0=2&1=4&4=1&5=1&6=1&8=1&10=2&11=1&jsonPath=warmaster-revolution%2Flizardmen&label=&printItems=l%2Curl&5-SwF=1[This list on Warmaster Army Selector]
 * xref:armies:lizardmen.adoc[Lizardmen] xref:armies:lizardmen.adoc#army-selector[army selector], xref:armies:lizardmen.adoc#special-rules[special rules] and xref:armies:lizardmen.adoc#spells[spells].
 
-== Nippon
+//== Nippon
+//
+//#TODO#
 
-#TODO#
-
-== Norse
-
-#TODO#
-
-image::revolution:armies:norse/norse.webp[width=2209,height=801]
+//== Norse
+//
+//#TODO#
+//
+//image::revolution:armies:norse/norse.webp[width=2209,height=801]
 
 == Ogre Kingdoms
 
@@ -398,9 +398,9 @@ image::revolution:armies:skaven/infantry.webp[width=2052,height=438,role=column-
 * https://wm-selector.github.io/#/?0=4&1=2&3=2&5=2&6=2&7=1&8=1&9=1&10=1&jsonPath=warmaster-revolution%2Fvampire-counts&label=&printItems=l%2Curl&8-ScD=1&10-RM=1[This list on Warmaster Army Selector]
 * xref:armies:vampire-counts.adoc[Vampire Count] xref:armies:vampire-counts.adoc#army-selector[army selector], xref:armies:vampire-counts.adoc#special-rules[special rules] and xref:armies:vampire-counts.adoc#spells[spells].
 
-== Witch Hunters
-
-#TODO#
+//== Witch Hunters
+//
+//#TODO#
 
 == Wood Elves
 
@@ -423,4 +423,18 @@ image::revolution:armies:skaven/infantry.webp[width=2052,height=438,role=column-
 
 * https://wm-selector.github.io/#/?0=2&1=2&4=2&6=1&7=1&8=1&10=1&13=1&14=1&jsonPath=warmaster-revolution%2Fwood-elves&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
 * xref:armies:wood-elves.adoc[Wood Elf] xref:armies:wood-elves.adoc#army-selector[army selector], xref:armies:wood-elves.adoc#special-rules[special rules] and xref:armies:wood-elves.adoc#spells[spells].
+
+== Missing lists
+
+xref:rules:editors-note.adoc#feedback[Suggestions] for lists for these armies, in the same style as above, are appreciated:
+
+* Albion
+* Cathay
+* Daemons
+* Dogs of War
+* Empire
+* Kislev
+* Nippon
+* Norse
+* Witch Hunters
 
