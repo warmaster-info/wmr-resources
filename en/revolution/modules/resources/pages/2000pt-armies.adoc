@@ -1,7 +1,7 @@
 = 2000pt Armies
 :noindex:
 
-Provided below are suggested 2000 point army lists for many of the _Warmaster Revolution_ armies.  They were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well.
+Provided below are suggested 2000 point army lists for many of the _Warmaster Revolution_ armies.  Most were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well, with additional contributions by users on the Warmaster Discord channel.
 
 Each list presents a balanced army which can play multiple styles and can form the basis of a larger army.
 
@@ -318,11 +318,34 @@ image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 //
 //#TODO#
 
-//== Norse
-//
-//#TODO#
-//
-//image::revolution:armies:norse/norse.webp[width=2209,height=801]
+== Norse
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 4 | Bondsmen             | 240
+| 4 | Huscarls             | 440
+| 2 | Huntsmen             | 110
+| 1 | Berserkers           |  70
+| 2 | Cavalry              | 180
+| 1 | Storm Giant          | 135
+| 1 | War Mammoth          | 180
+| 2 | Valkyries            | 160
+| 1 | Jarl                 | 125
+| 1 | Hero                 | 120
+| 1 | Were Kin             | (40)
+| 2 | Shaman               | 240
+| 1 | Were Kin             | (40)
+| 1 | Horn of Resounding   | (20)
+
+|17/9|                     |2000
+|===
+
+* https://wm-selector.github.io/#/?0=4&1=4&2=2&3=1&5=2&6=1&7=1&8=2&9=1&10=1&11=2&jsonPath=warmaster-revolution%2Fnorse&label=&printItems=l%2Curl&10-0=1&11-0=1&11-1=1[This list on Warmaster Army Selector]
+* xref:armies:norse.adoc[Norse] xref:armies:norse.adoc#army-selector[army selector], xref:armies:norse.adoc#special-rules[special rules] and xref:armies:norse.adoc#spells[spells].
+
+image::revolution:armies:norse/norse.webp[width=2209,height=801]
 
 == Ogre Kingdoms
 

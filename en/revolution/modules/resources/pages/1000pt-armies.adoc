@@ -1,7 +1,7 @@
 = 1000pt Armies
 :noindex:
 
-Provided below are suggested 1000 point army lists for many of the _Warmaster Revolution_ armies.  They were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well.
+Provided below are suggested 1000 point army lists for many of the _Warmaster Revolution_ armies.  Most were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well, with additional contributions by users on the Warmaster Discord channel.
 
 Each list presents a balanced army which can play multiple styles and can form the basis of a larger army.
 
@@ -36,26 +36,25 @@ See also xref:2000pt-armies.adoc[].
 
 == Beastmen
 
-#TODO — List written for Armies v2.24, units significantly recosted in Armies v2.25, now too much#
-
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
 | № | Unit                 | Cost
 
-| 4 | Gor                  | 240
+| 2 | Gor                  | 120
 | 2 | Ungor                |  90
-| 1 | Bestigors            |  75
+| 2 | Bestigors            | 150
 | 1 | Minotaurs            |  80
 | 2 | Chaos Hounds         |  80
 | 2 | Tuskgor Chariots     | 190
 | 1 | Beastlord            | 125
 | 1 | Wargor               |  80
+| 1 | Sword of Fate        |  (5)
 | 1 | Bray Shaman          |  80
 
-|12/6|                     |1040
+|11/6|                     |1000
 |===
 
-* https://wm-selector.github.io/#/?0=4&1=2&2=1&3=1&5=2&6=2&10=1&12=1&13=1&jsonPath=warmaster-revolution%2Fbeastmen&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
+* https://wm-selector.github.io/#/?0=2&1=2&2=2&3=1&5=2&6=2&10=1&12=1&13=1&jsonPath=warmaster-revolution%2Fbeastmen&label=&printItems=l%2Curl&12-SwF=1[This list on Warmaster Army Selector]
 * xref:armies:beastmen.adoc[Beastmen] xref:armies:beastmen.adoc#army-selector[army selector], xref:armies:beastmen.adoc#special-rules[special rules] and xref:armies:beastmen.adoc#spells[spells].
 
 image::revolution:armies:beastmen/beastmen.webp[width=2079,height=622]
@@ -274,11 +273,29 @@ image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 //
 //#TODO#
 
-//== Norse
-//
-//#TODO#
-//
-//image::revolution:armies:norse/norse.webp[width=2209,height=801]
+== Norse
+
+[%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
+|===
+| № | Unit                 | Cost
+
+| 4 | Bondsmen             | 240
+| 2 | Huscarls             | 220
+| 2 | Huntsmen             | 110
+| 1 | Cavalry              |  95
+| 1 | Sword of Fate        |  (5)
+| 1 | Valkyries            |  80
+| 1 | Jarl                 | 125
+| 1 | Shaman               | 130
+| 1 | Were Kin             | (40)
+
+|10/5|                     |1000
+|===
+
+* https://wm-selector.github.io/#/?0=4&1=2&2=2&5=1&8=1&9=1&11=1&jsonPath=warmaster-revolution%2Fnorse&label=&printItems=sl%2Csru%2Cl%2Curl&5-SwF=1&11-0=1[This list on Warmaster Army Selector]
+* xref:armies:norse.adoc[Norse] xref:armies:norse.adoc#army-selector[army selector], xref:armies:norse.adoc#special-rules[special rules] and xref:armies:norse.adoc#spells[spells].
+
+image::revolution:armies:norse/norse.webp[width=2209,height=801]
 
 == Ogre Kingdoms
 
@@ -437,4 +454,3 @@ xref:rules:editors-note.adoc#feedback[Suggestions] for lists for these armies, i
 * Nippon
 * Norse
 * Witch Hunters
-
