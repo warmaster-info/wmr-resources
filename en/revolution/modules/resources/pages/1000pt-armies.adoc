@@ -195,8 +195,6 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 
 == Goblins
 
-#TODO Only 990 points after recosting in Armies v2.25#
-
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
 | № | Unit                 | Cost
@@ -205,17 +203,17 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 | 2 | Squig Herd           |  60
 | 2 | Trolls               | 220
 | 2 | Wolf Riders          | 120
-| 2 | Wolf Chariots        | 150
+| 1 | Giant                | 135
+| 1 | Spear Chukka         |  65
 | 1 | Goblin Warboss       |  80
 | 2 | Goblin Hero          | 180
 | 1 | Wyvern               | (80)
-| 1 | Sword of Might       | (10)
-| 2 | Goblin Shaman        | 60
+| 1 | Goblin Shaman        | 30
 
-|2/6|                      | 990
+|12/6|                     | 1000
 |===
 
-* https://wm-selector.github.io/#/?0=4&1=2&2=2&3=2&4=2&9=1&10=2&11=2&jsonPath=warmaster-revolution%2Fgoblin&label=&printItems=l%2Curl&10-1=1&10-SwM=1[This list on Warmaster Army Selector]
+* https://wm-selector.github.io/#/?0=4&1=2&2=2&3=2&6=1&8=1&9=1&10=2&11=1&jsonPath=warmaster-revolution%2Fgoblin&label=&printItems=l%2Curl&10-1=1[This list on Warmaster Army Selector]
 * xref:armies:goblins.adoc[Goblin] xref:armies:goblins.adoc#army-selector[army selector], xref:armies:goblins.adoc#special-rules[special rules] and xref:armies:goblins.adoc#spells[spells].
 
 image::revolution:armies:goblins/wolf-riders.webp[width=729,height=310,role=column-span]
