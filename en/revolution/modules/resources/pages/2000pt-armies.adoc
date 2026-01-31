@@ -1,6 +1,6 @@
 = 2000pt Armies
 :noindex:
-:selector: https://wm-selector.github.io
+:selector: https://selector.warmaster.info
 
 Provided below are suggested 2000 point army lists for many of the _Warmaster Revolution_ armies.  Most were written by Zak Rohan, a prominent member of the UK Warmaster scene and a tournament organiser who knows the game very well, with additional contributions by users on the Warmaster Discord channel.
 
