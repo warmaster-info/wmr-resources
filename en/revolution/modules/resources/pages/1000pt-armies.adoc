@@ -37,6 +37,8 @@ See also xref:2000pt-armies.adoc[].
 
 == Beastmen
 
+#TODO: INVALID as Bestigors are 5pts more expensive in Armies v2.26#
+
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
 | № | Unit                 | Cost
@@ -187,7 +189,7 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 |8/4|                      |1000
 |===
 
-* {selector}/#/?0=3&1=2&3=1&4=1&6=1&7=1&9=1&jsonPath=warmaster-revolution%2Fdwarfs&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
+* {selector}/#/?0=3&2=2&4=1&5=1&7=1&8=1&10=1&jsonPath=warmaster-revolution%2Fdwarfs&label=&printItems=l%2Curl[This list on Warmaster Army Selector]
 * xref:armies:dwarfs.adoc[Dwarf] xref:armies:dwarfs.adoc#army-selector[army selector] and xref:armies:dwarfs.adoc#special-rules[special rules].
 
 //== Empire
@@ -221,6 +223,8 @@ image::revolution:armies:goblins/wolf-riders.webp[width=729,height=310,role=colu
 
 == High Elves
 
+#TODO: List has not been updated to Armies 2.26#
+
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
 | № | Unit                 | Cost
@@ -247,6 +251,8 @@ image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 //#TODO#
 
 == Lizardmen
+
+#TODO: Invalid as Saures are +10pts in Armies 2.26#
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
@@ -314,7 +320,7 @@ image::revolution:armies:norse/norse.webp[width=2209,height=801]
 |6/3|                      |1000
 |===
 
-* {selector}/#/?0=3&2=1&4=1&5=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fogre-kingdoms&label=&printItems=sl%2Cl%2Curl&12-ScD=1[This list on Warmaster Army Selector]
+* {selector}/#/?0=3&2=1&4=1&6=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fogre-kingdoms&label=&printItems=sl%2Cl%2Curl&12-ScD=1[This list on Warmaster Army Selector]
 * xref:armies:ogre-kingdoms.adoc[Ogre Kingdoms] xref:armies:ogre-kingdoms.adoc#army-selector[army selector], xref:armies:ogre-kingdoms.adoc#special-rules[special rules] and xref:armies:ogre-kingdoms.adoc#spells[spells].
 
 image::revolution:armies:ogre-kingdoms/infantry.webp[width=2345,height=659,role=column-span]

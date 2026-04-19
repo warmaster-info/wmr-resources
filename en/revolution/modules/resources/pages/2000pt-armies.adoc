@@ -43,7 +43,7 @@ See also xref:1000pt-armies.adoc[].
 
 == Beastmen
 
-#TODO — Units significantly recosted in Armies v2.25, now too much#
+#TODO — Units significantly recosted in Armies v2.25 / v2.26, now too much#
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
@@ -235,6 +235,8 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 
 == Dwarfs
 
+#TODO: List for Armies v2.25, before the addition of Miners.#
+
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
 | № | Unit                 | Cost
@@ -254,7 +256,7 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 |17/9|                     |2000
 |===
 
-* {selector}/#/?0=6&1=2&2=2&3=3&4=2&6=2&7=1&9=2&jsonPath=warmaster-revolution%2Fdwarfs&label=&printItems=l%2Curl&7-SwF=1&9-ScD=1&9-SwM=1[This list on Warmaster Army Selector]
+* {selector}/#/?0=6&2=2&3=2&4=3&5=2&7=2&8=1&10=2&jsonPath=warmaster-revolution%2Fdwarfs&label=&printItems=&8-SwF=1&10-ScD=1&10-SwM=1[This list on Warmaster Army Selector]
 * xref:armies:dwarfs.adoc[Dwarf] xref:armies:dwarfs.adoc#army-selector[army selector] and xref:armies:dwarfs.adoc#special-rules[special rules]
 * https://www.youtube.com/watch?v=qy3wLxThb-w[Warmaster Faction Focus: Dwarfs (YouTube)]
 
@@ -324,6 +326,9 @@ image::revolution:armies:goblins/wolf-riders.webp[width=729,height=310,role=colu
 
 == High Elves
 
+#TODO Only 1975 points#
+
+
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
 | № | Unit                 | Cost
@@ -356,6 +361,8 @@ image::revolution:armies:high-elves/high-elves.webp[width=2079,height=403]
 //* https://www.youtube.com/watch?v=gih6yVCEzNk[Warmaster Faction Focus: Kislev (YouTube)]
 
 == Lizardmen
+
+#TODO: List is now too expensive (v2.26) at 2030#
 
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
@@ -468,7 +475,7 @@ image::revolution:armies:norse/norse.webp[width=2209,height=801]
 |16/8|                     |2000
 |===
 
-* {selector}/#/?0=6&2=2&4=4&5=2&7=2&10=1&11=2&12=1&jsonPath=warmaster-revolution%2Fogre-kingdoms&label=&printItems=l%2Curl&5-SwD=1&5-SwC=1&11-0=1&11-SwM=1&12-ScD=1[This list on Warmaster Army Selector]
+* {selector}/#/?0=6&2=2&4=4&6=2&7=2&10=1&11=2&12=1&jsonPath=warmaster-revolution%2Fogre-kingdoms&label=&printItems=&6-SwD=1&6-SwC=1&11-0=1&11-SwM=1&12-ScD=1[This list on Warmaster Army Selector]
 * xref:armies:ogre-kingdoms.adoc[Ogre Kingdoms] xref:armies:ogre-kingdoms.adoc#army-selector[army selector], xref:armies:ogre-kingdoms.adoc#special-rules[special rules] and xref:armies:ogre-kingdoms.adoc#spells[spells]
 * https://www.youtube.com/watch?v=rQygMvpxjc4[Warmaster Faction Focus: Ogres 2025 (YouTube)]
 
