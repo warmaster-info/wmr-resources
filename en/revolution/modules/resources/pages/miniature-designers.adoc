@@ -132,7 +132,7 @@ _See also <<empire>>._
 * https://cromartyforge.com/product/10mm-chibi-elf-army/[Cromarty Forge _Chibi Elf_] {files} {prints}
 * https://darkgref.gumroad.com/[Darkgref] {files}
 * https://cults3d.com/en/users/edoras/3d-models[Edoras] {files}
-* [.del]#https://forestdragon.gumroad.com/[Forest Dragon] {files}#
+* https://forestdragon.gumroad.com/[Forest Dragon _Aurethil Court_] {files}
 * https://www.irregularminiatures.co.uk/indexes/10mmindex.htm[Irregular Miniatures] {casts}
 * https://www.kallistra.co.uk/?page=19[Kallistra] {casts}
 * https://www.pendraken.co.uk/10mm-12mm-fantasy-high-elves[Pendraken] {casts}
