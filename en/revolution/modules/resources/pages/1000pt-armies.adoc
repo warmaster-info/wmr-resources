@@ -118,26 +118,25 @@ image::revolution:armies:chaos/warriors.webp[width=1962,height=650,role=column-s
 
 == Chaos Dwarfs
 
-#TODO: INVALID as max 1 earthshaker / death rocket per 1000 in Armies v2.25#
-
 [%header,role=armylist,cols="^1,<4,>1",frame=none,grid=rows]
 |===
-| № | Unit                 | Cost
+| № | Unit                  | Cost
 
-| 3 | Chaos Dwarfs         | 330
-| 2 | Orc Slaves           |  80
-| 1 | Bull Centaurs        | 140
-| 1 | Earthshaker Cannon   |  90
-| 1 | Death Rocket         |  60
-| 1 | General              | 125
-| 1 | Hero                 |  85
-| 1 | Sword of Fate        |  (5)
-| 1 | Sorcerer             |  90
+| 2 | Chaos Dwarfs          | 220
+| 1 | Hobgoblins            |  45
+| 2 | Orc Slaves            |  80
+| 2 | Hobgoblin Wolf Riders | 150
+| 1 | Bull Centaurs         | 140
+| 1 | Death Rocket          |  60
+| 1 | Bolt Thrower          |  65
+| 1 | General               | 150
+| 1 | Sorcerer Lord         | (25)
+| 1 | Sorcerer              |  90
 
-|8/4|                      |1000
+|10/5|                      |1000
 |===
 
-* {selector}/#/?0=3&4=2&6=1&7=1&8=1&10=1&11=1&12=1&jsonPath=warmaster-revolution%2Fchaos-dwarfs&label=&printItems=l%2Curl&11-SwF=1[This list on Warmaster Army Selector]
+* {selector}#/?0=2&2=1&4=2&5=2&6=1&8=1&9=1&10=1&12=1&jsonPath=warmaster-revolution%2Fchaos-dwarfs&label=&printItems=l%2Curl&10-2=1[This list on Warmaster Army Selector]
 * xref:armies:chaos-dwarfs.adoc[Chaos Dwarf] xref:armies:chaos-dwarfs.adoc#army-selector[army selector], xref:armies:chaos-dwarfs.adoc#special-rules[special rules] and xref:armies:chaos-dwarfs.adoc#spells[spells].
 
 //== Daemons
